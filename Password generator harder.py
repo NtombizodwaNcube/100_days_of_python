@@ -28,5 +28,5 @@ password = " "
 for char in password_list:
   password += char
 
-print(f"Your password is {password_list}")
+print(f"Your password is: {password}")
       
